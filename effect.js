@@ -7,7 +7,7 @@ $(window).load(function(){
 });
 
 // Typing effect text
-const storyText = `Vào ngày 20 tháng 8 của 20 năm về trước, khi những cơn gió bắt đầu mang theo hơi thở dịu dàng của mùa thu, có một cô bé đã chào đời. Cha mẹ đặt cho cô bé cái tên Nguyễn Thị Minh Ánh, với hy vọng cuộc đời cô ấy sẽ luôn là một vệt nắng trong veo và rạng rỡ. Cô bé ấy lớn lên cùng mùa thu, mang trong mình một tâm hồn nhạy cảm, sâu lắng và một chút tĩnh lặng như chính tiết trời lúc giao mùa, đó là lý do mà cô bé ấy được 1 hacker gọi với biệt danh là cô bạn mùa thu.
+const storyText = `Vào ngày 20 tháng 8 của 20 năm về trước, khi những cơn gió bắt đầu mang theo hơi thở dịu dàng của mùa thu, có một cô bé đã chào đời. Cha mẹ đặt cho cô bé ấy cái tên rất hay Nguyễn Thị Minh Ánh, với hy vọng cuộc đời cô ấy sẽ luôn là một vệt nắng trong veo và rạng rỡ. Cô bé ấy lớn lên cùng mùa thu, mang trong mình một tâm hồn nhạy cảm, sâu lắng và một chút tĩnh lặng như chính tiết trời lúc giao mùa, đó là lý do mà cô bé ấy được 1 hacker gọi với biệt danh là cô bạn mùa thu.
 
 Khi bước vào tuổi thiếu nữ, cô bé ngày nào giờ đã trở thành một cô thiếu nữ, tâm hồn nhạy cảm của cô gái mùa thu ấy lần đầu biết rung động. Nhưng cơn mưa đầu đời ấy lại mang theo cả bão giông. Cô vô tình bước vào một mối quan hệ mà ở đó, những đám mây u tối dần che lấp đi ánh nắng trong trẻo của cô. Có những ngày, nụ cười của Minh Ánh không còn rạng rỡ, và năng lượng tích cực mà cô vốn có dường như cũng cạn kiệt. Sự yếu đuối và nhạy cảm trong cô khiến cô loay hoay, chìm đắm trong những cảm xúc tiêu cực. Đó là những ngày tháng mà mùa thu trong lòng cô chỉ còn lại lá úa và những cơn gió lạnh.
 
