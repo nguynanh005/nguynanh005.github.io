@@ -1998,7 +1998,7 @@ audio {
 
 /* Enhanced message container */
 .message {
-    margin-top: 200px;
+    margin-top: 150px;
     display: none;
     background: rgba(255,255,255,0.08);
     backdrop-filter: blur(15px);
@@ -2208,6 +2208,105 @@ audio {
 }
 
 
+/* Mobile Responsive Styles */
+@media only screen and (max-width: 768px) {
+    /* Message container optimization for mobile */
+    .message {
+        margin: 10px 5px !important;
+        padding: 15px !important;
+        border-radius: 15px !important;
+        margin-top: 80px !important;
+    }
+    
+    /* Typing container mobile optimization */
+    .typing-container {
+        margin: 20px 0 !important;
+        min-height: 200px !important;
+        font-size: 1rem !important;
+        line-height: 1.6 !important;
+    }
+    
+    /* Typed text mobile optimization */
+    .typed-text {
+        padding: 10px !important;
+        font-size: 0.9rem !important;
+    }
+    
+    /* Birthday wish mobile optimization */
+    .birthday-wish {
+        margin-top: 20px !important;
+    }
+    
+    .birthday-wish p:first-child {
+        font-size: 1.5rem !important;
+    }
+    
+    /* Password modal mobile optimization */
+    .modal-content {
+        padding: 20px !important;
+        margin: 10px !important;
+        max-width: 90% !important;
+    }
+    
+    .modal-title {
+        font-size: 1.3rem !important;
+    }
+    
+    .modal-name {
+        font-size: 1.1rem !important;
+    }
+    
+    /* Navbar buttons mobile optimization */
+    .navbar .btn {
+        font-size: 0.8rem !important;
+        padding: 8px 12px !important;
+        margin: 2px !important;
+    }
+    
+    /* Balloons mobile optimization */
+    .balloons {
+        font-size: 0.8rem !important;
+    }
+    
+    /* Banner mobile optimization */
+    .bannar {
+        max-width: 90% !important;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    /* Extra small screens (phones in portrait) */
+    .message {
+        margin: 5px 2px !important;
+        padding: 10px !important;
+        margin-top: 60px !important;
+    }
+    
+    .typing-container {
+        font-size: 0.9rem !important;
+        line-height: 1.5 !important;
+    }
+    
+    .typed-text {
+        padding: 8px !important;
+        font-size: 0.85rem !important;
+    }
+    
+    .modal-content {
+        padding: 15px !important;
+        margin: 5px !important;
+    }
+    
+    .navbar .btn {
+        font-size: 0.7rem !important;
+        padding: 6px 8px !important;
+        margin: 1px !important;
+    }
+    
+    .birthday-wish p:first-child {
+        font-size: 1.2rem !important;
+    }
+}
 
     /*controlling tablet width*/
     /*@media only screen and (max-width: 720px){
