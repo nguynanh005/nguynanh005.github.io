@@ -1582,7 +1582,7 @@ audio {
 }
 
 .cake-cover {
-	margin-top: 50px;
+	margin-top: 80px;
 }
 .message p {
 	font-family: 'Signika', sans-serif;
@@ -1998,7 +1998,7 @@ audio {
 
 /* Enhanced message container */
 .message {
-    margin-top: 150px;
+    margin-top: 80px;
     display: none;
     background: rgba(255,255,255,0.08);
     backdrop-filter: blur(15px);
@@ -2155,7 +2155,7 @@ audio {
 	line-height: 1.8;
 	color: #fff;
 	text-align: left;
-	margin: 40px 0;
+	margin: 0;
 	min-height: 400px;
 	position: relative;
 	display: block !important;
@@ -2166,7 +2166,7 @@ audio {
 
 .typed-text {
 	margin: 0;
-	padding: 20px;
+	padding: 0;
 	background: transparent;
 	border: none;
 	white-space: pre-wrap;
@@ -2215,12 +2215,12 @@ audio {
         margin: 10px 5px !important;
         padding: 15px !important;
         border-radius: 15px !important;
-        margin-top: 80px !important;
+        margin-top: 60px !important;
     }
     
     /* Typing container mobile optimization */
     .typing-container {
-        margin: 20px 0 !important;
+        margin: 0 !important;
         min-height: 200px !important;
         font-size: 1rem !important;
         line-height: 1.6 !important;
@@ -2228,7 +2228,7 @@ audio {
     
     /* Typed text mobile optimization */
     .typed-text {
-        padding: 10px !important;
+        padding: 0 !important;
         font-size: 0.9rem !important;
     }
     
@@ -2279,7 +2279,7 @@ audio {
     .message {
         margin: 5px 2px !important;
         padding: 10px !important;
-        margin-top: 60px !important;
+        margin-top: 80px !important;
     }
     
     .typing-container {
