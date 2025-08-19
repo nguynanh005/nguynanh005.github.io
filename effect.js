@@ -197,7 +197,7 @@ function createParticles() {
 // Create falling images effect
 function createFallingImages() {
 	const fallingContainer = $('.falling-images');
-	const imageNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+	const imageNumbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11];
 	
 	// Preload all images to prevent flickering
 	const preloadedImages = {};
